@@ -1,0 +1,40 @@
+what to learn to learn in html? (version 5)
+------------------------------------------
+    - structure of html
+    - DOM Tree
+    - tables
+    - list
+    - hyperlinks
+    - forms
+    - events
+
+what to learn in css?(version 3)
+--------------------------------
+how to include CSS in your web page?
+    - External CSS
+    - Internal CSS (used this in demo)
+    - Inline CSS
+what are the CSS Selectors?
+    - element selector (used this in demo)
+    - class selector
+    - id selector
+    - universal selector
+    - combinator selector
+    - and many more
+what is CSS Box model?
+    - know padding, border, margin
+what are the CSS properties?
+    - huge list of CSS properties
+what to learn for bringing layouts in the page?
+    - CSS Flexbox
+    - CSS Grid
+what is CSS animation?
+
+bootstrap (version 5)
+---------------------
+    - a framework built on CSS
+    - boostarp provides the bootstrap.min.css files with all predefined styles
+    - we can just use the styles in our page
+    - can easily incorporate responsive web designing
+    - what to learn?
+        - learn all the bootstrap classes
